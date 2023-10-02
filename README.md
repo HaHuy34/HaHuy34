@@ -1,7 +1,9 @@
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ha+Van+Huy!;" />
 </h1>
+
 ![HuyHa GitHub stats](https://github-readme-stats.vercel.app/api?username=HaHuy34&show_icons=true&theme=tokyonight) 
+
 <h2>⚡How to reach me⚡</h2>
 <p>
   <a href="https://www.linkedin.com/in/huy-h%C3%A0-914159215/" target="_blank">
