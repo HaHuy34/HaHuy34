@@ -1,4 +1,9 @@
+<div>
+<div>
 ![HuyHa GitHub stats](https://github-readme-stats.vercel.app/api?username=HaHuy34&show_icons=true&theme=tokyonight)
+</div>
+    <div>
+        
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ha+Van+Huy!;" />
 </h1>
@@ -26,5 +31,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
+</div>
+    </div>
 </div>
 
