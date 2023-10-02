@@ -36,9 +36,9 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaHuy34&repo=ShopInterior&theme=radical" />
 </a>  
 
-<a href="https://github.com/HaHuy34/Convert_TodoList_ReactJsr">
+<a href="https://github.com/HaHuy34/Convert_TodoList_ReactJs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaHuy34&repo=Convert_TodoList_ReactJsr&theme=radical" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaHuy34&repo=Convert_TodoList_ReactJs&theme=radical" />
 </a>  
 
 
