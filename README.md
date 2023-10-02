@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://img.freepik.com/premium-vector/hacker-using-laptop-bad-vector-illustration_760443-763.jpg">
+<img align="left" width="400" src="https://img.lovepik.com/free-png/20211227/lovepik-…ter-line-technology-png-image_400671047_wh860.png">
 <h1 align="center">Hi 👋, I'm Ha Van Huy</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
