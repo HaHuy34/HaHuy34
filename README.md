@@ -30,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
 </div>
+<br/>
 
 <a href="https://github.com/HaHuy34/ShopInterior">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
