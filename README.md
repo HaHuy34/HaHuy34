@@ -1,5 +1,5 @@
 
-![HuyHa34 github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+[![HuyHa34 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Ha Huy</h1>
 <p align="center">
