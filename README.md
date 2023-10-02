@@ -30,6 +30,6 @@
     <img src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
 </div>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaHuy34&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
