@@ -2,7 +2,7 @@
 ![HuyHa GitHub stats](https://github-readme-stats.vercel.app/api?username=HaHuy34&show_icons=true&theme=tokyonight)
   
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ha+Van+Huy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ha+Van+Huy!;" />
 </h1>
 <h2>⚡How to reach me⚡</h2>
 <p>
