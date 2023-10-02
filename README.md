@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://camo.githubusercontent.com/035592091e0e8344bced193b9f0c33068d6574ef485bae3f2079d4a4c002c51f/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f70726f66696c652d66697273742d7265706f2e737667">
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Ha Van Huy</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
