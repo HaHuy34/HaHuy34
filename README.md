@@ -31,5 +31,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
 </div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaHuy34&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/uvipen/QuickDraw/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+</a>  
 
