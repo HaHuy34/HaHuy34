@@ -1,5 +1,5 @@
 
-<div>
+
 ![HuyHa GitHub stats](https://github-readme-stats.vercel.app/api?username=HaHuy34&show_icons=true&theme=tokyonight)
 </div>
     <div>
@@ -32,6 +32,6 @@
     <img src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
 </div>
-    </div>
+
 
 
